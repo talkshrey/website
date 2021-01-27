@@ -1,0 +1,54 @@
+.bird{
+background-color : #ffff93;
+}
+h1{
+text-align : center;
+color : #000050;
+background-color : white;
+font-size : 48;
+padding : 8;
+margin-left : -8;
+margin-top : -8;
+margin-right : -8; 
+}
+.menu{
+margin-left : 20;
+margin-right : 80%;
+list-style-type : none;
+padding :50;
+background-color : #ffff80;
+}
+#list{
+text-decoration : none;
+font-family : "Montserrat", regular 400;
+font-size : 25;
+font-weight: semi-bold;
+margin-left: 30;
+margin-right: 30;
+color:yellow;
+}
+#list:hover{
+color : white;
+}
+.logos{
+list-style-type : none;
+}
+#logo{
+display : inline;
+}
+nav{
+margin-left : 20;
+}
+.footer{
+background-color : #3a00ab;
+text-align : center;
+height : 180;
+color : yellow;
+font-size: 20;
+}
+#hide{
+display : none;
+margin-top:40px;
+margin-right:-5; 
+width:10%;
+}
