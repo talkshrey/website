@@ -1,0 +1,35 @@
+.header{
+font-size:85;
+color:#B80E0E; 
+margin-top: 500; 
+font-family:league-spartan; 
+font-weight:bold; 
+position: relative; 
+top:-40; 
+left:200;
+}
+
+@media only screen and (max-width:1080px){
+.header{
+top: 50 !important;
+left: -10 !important;
+}
+#mobile_social{
+width: 25% !important;
+top: 650 !important;
+left: 200 !important;
+}
+#mobile_digital{
+width: 25% !important;
+top: 380 !important;
+left: 500 !important;
+}
+#quote{
+font-size: 40 !important;
+top: 120 !important;
+left: -10 !important;
+}
+.carousel-inner{
+height: 1000 !important;
+}
+}
